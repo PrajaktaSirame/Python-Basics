@@ -1,0 +1,2 @@
+
+print("deepak is mad")
